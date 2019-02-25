@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Простая анкета</string>
+    <string name="start">Начать</string>
+    <string name="spinner_question">Страна проживания</string>
+    <string name="next_arrow">Далее</string>
+    <string name="exit">Выход</string>
+    <string name="radio_question">Ваше хобби</string>
+    <string name="radio_answer_1">Видеоигры</string>
+    <string name="radio_answer_2">Спорт</string>
+    <string name="radio_answer_3">Танцы</string>
+    <string name="radio_answer_4">Кино</string>
+    <string name="checkbox_question">Вам есть 18?</string>
+    <string name="last_words">Спасибо за тестирование!</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="one_text">Страна: </string>
+    <string name="two_text">Хобби:</string>
+    <string name="three_text">"18 есть?:</string>
+    <string name="br"> \n </string>
+
+    <string-array name="answers_arrays">
+        <item>Казахстан</item>
+        <item>Россия</item>
+        <item>США</item>
+        <item>Япония</item>
+        <item>Италия</item>
+        <item>Лондон</item>
+    </string-array>
+</resources>
